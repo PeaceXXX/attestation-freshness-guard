@@ -1,0 +1,10 @@
+{
+  "quote_id": "q-stale-0002",
+  "workload_id": "agent-sandbox-01",
+  "generated_at": "2026-11-16T17:15:25Z",
+  "nonce": "challenge-2026-11-16-0936",
+  "sequence": 42,
+  "tcb_svn": 7,
+  "report_data": "ff20ddb47c36fa306cf1ac894a0c3c8e614356ecb722b1ac21fd83d99ce03870",
+  "signature": "5d1367aa08f52163d216c51e42a3c3a061c4c73467923a7d18b8eaeaada534bf"
+}

@@ -1,0 +1,10 @@
+{
+  "quote_id": "q-fresh-0001",
+  "workload_id": "agent-sandbox-01",
+  "generated_at": "2026-11-16T17:44:40Z",
+  "nonce": "challenge-2026-11-16-0936",
+  "sequence": 41,
+  "tcb_svn": 7,
+  "report_data": "ff20ddb47c36fa306cf1ac894a0c3c8e614356ecb722b1ac21fd83d99ce03870",
+  "signature": "4add26a8a0ec0375cb7781b259dae03acc038594ea423a5cdd395a534f961ad7"
+}

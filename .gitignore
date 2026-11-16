@@ -1,0 +1,14 @@
+# Go build artifacts
+/freshguard
+*.exe
+*.test
+*.out
+
+# Regenerable demo material
+*.log
+/tmp/freshguard-replay.json
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
